@@ -1,7 +1,3 @@
-# Thierry Paquet C 2019-2021
-# University of Rouen Normandie
-# Master SID
-# 
 import keras
 from keras.datasets import mnist
 #from tensorflow.keras.utils import to_categorical
